@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://LLKE.github.io/repo/"
+baseurl = "https://LLKE.github.io/brewsandbrainwaves"
 languageCode = "en-us"
 paginate = 5
 title = "Brews & Brainwaves"
